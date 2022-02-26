@@ -15,14 +15,14 @@
 
 ### usage
 ```sh
-  npm install @pereiraadiel/sum-js@1.0.1
+  npm install @pereiraadiel/sum-js
 ```
 
 file: test.ts
 ```ts
-import Test from '@pereiraadiel/sum-js';
+import { Sum } from '@pereiraadiel/sum-js';
 
-const sum = new Test.Sum();
+const n = Sum(1,2);
 
-console.log(sum.execute(1,1));
+console.log(n);
 ```

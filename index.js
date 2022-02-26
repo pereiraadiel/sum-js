@@ -1,7 +1,6 @@
-class Sum {
-  execute(first, second) {
-    return first + second;
-  }
+
+function Sum (first, second) {
+  return first + second;
 }
 
 module.exports.Sum = Sum;
