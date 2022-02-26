@@ -1,0 +1,10 @@
+{
+  "name": "@pereiraadiel/sum-js",
+  "version": "1.0.1",
+  "description": "Simple sum lib for learning how to publish on npm",
+  "main": "index.js",
+  "repository": "git@github.com:pereiraadiel/sum-js.git",
+  "author": "Adiel Pereira",
+  "license": "MIT",
+  "private": false
+}
